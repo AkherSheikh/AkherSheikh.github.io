@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akher Sheikh!
 
-আমি একজন **Web Developer**। আমি মূলত **Static Website**, **Cloudflare Workers** এবং **Telegram Bot** নিয়ে কাজ করি।
+I am a **Web Developer** specializing in **Static Websites**, **Cloudflare Workers**, and **Telegram Bots**.
 
 ### 🛠️ My Skills:
 - **Frontend:** HTML, CSS, JavaScript
